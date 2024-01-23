@@ -1,0 +1,14 @@
+C:\xampp\htdocs\Cursos\Curso_C#\Aprendizado_3\TextEditor\bin\Debug\net8.0\TextEditor.exe
+C:\xampp\htdocs\Cursos\Curso_C#\Aprendizado_3\TextEditor\bin\Debug\net8.0\TextEditor.deps.json
+C:\xampp\htdocs\Cursos\Curso_C#\Aprendizado_3\TextEditor\bin\Debug\net8.0\TextEditor.runtimeconfig.json
+C:\xampp\htdocs\Cursos\Curso_C#\Aprendizado_3\TextEditor\bin\Debug\net8.0\TextEditor.dll
+C:\xampp\htdocs\Cursos\Curso_C#\Aprendizado_3\TextEditor\bin\Debug\net8.0\TextEditor.pdb
+C:\xampp\htdocs\Cursos\Curso_C#\Aprendizado_3\TextEditor\obj\Debug\net8.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Cursos\Curso_C#\Aprendizado_3\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Cursos\Curso_C#\Aprendizado_3\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfo.cs
+C:\xampp\htdocs\Cursos\Curso_C#\Aprendizado_3\TextEditor\obj\Debug\net8.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Cursos\Curso_C#\Aprendizado_3\TextEditor\obj\Debug\net8.0\TextEditor.dll
+C:\xampp\htdocs\Cursos\Curso_C#\Aprendizado_3\TextEditor\obj\Debug\net8.0\refint\TextEditor.dll
+C:\xampp\htdocs\Cursos\Curso_C#\Aprendizado_3\TextEditor\obj\Debug\net8.0\TextEditor.pdb
+C:\xampp\htdocs\Cursos\Curso_C#\Aprendizado_3\TextEditor\obj\Debug\net8.0\TextEditor.genruntimeconfig.cache
+C:\xampp\htdocs\Cursos\Curso_C#\Aprendizado_3\TextEditor\obj\Debug\net8.0\ref\TextEditor.dll
